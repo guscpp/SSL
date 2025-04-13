@@ -1,6 +1,6 @@
-## Numero de equipo:
+## Número de equipo:
 
-no asignado al momento de realizar este TP0
+No asignado al momento de realizar este TP0
 
 
 ## Autores de la resolución:
@@ -10,7 +10,7 @@ no asignado al momento de realizar este TP0
 - Apellido: Ekiel
 - Nombre: Gustavo
 
-## Numero y titulo del trabajo:
+## Número y título del trabajo:
 
 00, Trabajo Práctico 0
 
@@ -30,6 +30,7 @@ gcc (Ubuntu 11.4.0-1ubuntu1~22.04) 11.4.0
 Copyright (C) 2021 Free Software Foundation, Inc.
 This is free software; see the source for copying conditions.  There is NO
 warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+> 
 ```
 
 ## Adicionales:
